@@ -1,3 +1,3 @@
 # hello-world
 
-random change via planned check-ins
+random change using planned check-ins
